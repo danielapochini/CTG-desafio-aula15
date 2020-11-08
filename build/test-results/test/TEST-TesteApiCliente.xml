@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteApiCliente" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-08T15:21:51" hostname="LAPTOP-AG2AUC8B" time="1.874">
+  <properties/>
+  <testcase name="Quando eu pegar a lista de clientes sem cadastrar nenhum, entao nao tem nenhum cliente cadastrado" classname="TesteApiCliente" time="1.291"/>
+  <testcase name="Quando cadasatrar um cliente. Entao o cliente deve estar presente na resposta" classname="TesteApiCliente" time="0.481"/>
+  <testcase name="Quando eu atualizar um cliente existente. Entao as novas informacoes deverao ser exibidas com sucesso" classname="TesteApiCliente" time="0.079"/>
+  <testcase name="Quando eu deletar um cliente. Entao devera ser removido com sucesso" classname="TesteApiCliente" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
